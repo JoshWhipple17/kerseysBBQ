@@ -1,0 +1,53 @@
+#footer{background-color: black;
+		color: white;
+		padding: 20px 50px 20px 50px;}
+.navbar{background-color: black;}
+.jumbotron{background-color: #ff5500;
+		   color: white;
+		   border: 0.5px solid black;
+		   margin-top: 70px;}
+.fa{color: white;}
+.fa:hover{color: #ff5500;}
+.panel{background-color: #ff5500;
+	   color: white;
+	   border-color: black;}
+.btn{background-color: black;
+	 border: none;}
+body{background: url(flame_placeholder_image.jpg);}
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+  padding: 8px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: white;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+  color: #ff5500;
+}
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+.navbar-inverse .navbar-brand:hover {
+  color: #ff5500;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #ff5500;
+}
+#header{margin-top: 70px;}
+h3{text-align: center;}
+.navbar-inverse .navbar-toggle {
+  border-color: white;
+}
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  background-color: #ff5500;
+}
